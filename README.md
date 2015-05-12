@@ -23,6 +23,10 @@ As you'll see in any discussion of security tools, here's a disclaimer to say **
 
 > If you or your source is truly a high-value target of a government, protecting yourself will require far more effort. To get an idea of what people do when they are really serious about security, please read this post first: <http://grugq.github.io/blog/2013/06/13/ignorance-is-strength/>
 
+### Simple mobile practices
+
+It's best to turn off Bluetooth and WiFi when you're in public or not using them. Bluetooth and WiFi signals can be used to identify your phone, for example, [when passing by a Bluetooth- or WiFi-enabled phone booth](http://www.buzzfeed.com/josephbernstein/exclusive-hundreds-of-devices-hidden-inside-new-york-city-ph#.yryawvdMa), or [shopping in a store with WiFi](http://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html?_r=0).
+
 ### Web-browsing tools
 
 A few simple browser extensions exist to limit your digital footprint around web trackers and sending insecure information. **Disclaimer: Using these extensions can cause some sites to not load properly and appear broken. Sometimes disabling them or whitelisting certain domains is required to find a happy medium.**
