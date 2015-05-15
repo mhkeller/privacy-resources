@@ -48,3 +48,11 @@ For **phone security**, the iPhone app [Signal - Private Messenger](https://itun
 ## More resources
 
 * This [Mozilla compilation](https://github.com/mozilla/DropItLike) points to a whole bunch of other tools and guides if you want to jump in further.
+
+
+# LICENSE
+
+MIT
+
+Michael Keller, May 2015
+<https://github.com/mhkeller/privacy-resources/>
