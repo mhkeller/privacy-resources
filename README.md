@@ -55,4 +55,5 @@ For **phone security**, the iPhone app [Signal - Private Messenger](https://itun
 MIT
 
 Michael Keller, May 2015
+
 <https://github.com/mhkeller/privacy-resources/>
