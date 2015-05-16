@@ -31,7 +31,7 @@ It's best to turn off Bluetooth and WiFi when you're in public or not using them
 
 A few simple browser extensions exist to limit your digital footprint around web trackers and sending insecure information. **Disclaimer: Using these extensions can cause some sites to not load properly and appear broken. Sometimes disabling them or whitelisting certain domains is required to find a happy medium.**
 
-* [HTTPS Everywhere](https://www.eff.org/https-everywhere) — From the Electronic Frontier Foundation browser extension automatically sends your traffic over the more securt HTTPS protocol instead of by HTTP.
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) — From the Electronic Frontier Foundation browser extension automatically sends your traffic over the more secure HTTPS protocol instead of by HTTP.
 * [Privacy Badger](https://www.eff.org/privacybadger) — Another EFF browser extension, this tool blocks different domains from putting cookies and other trackers on the pages you visit.
 * [Self-destructing cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) — A Firefox-only plugin that destroys cookies after you leave any website, unless you whitelist certain ones.
 
