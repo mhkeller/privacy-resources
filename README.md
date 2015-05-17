@@ -45,6 +45,21 @@ The next level up is creating a **private/public key pair for encrypted email** 
 
 For **phone security**, the iPhone app [Signal - Private Messenger](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) provides both encrypted text messaging and encrypted calls. Read more about how to use it on [their website](https://whispersystems.org/).
 
+### Password managers
+
+It's a good idea to use a password manager to keep track of and rotate your various online credentials. Here are some options:
+
+* [1Password](https://agilebits.com/onepassword) — Very easy to use and has iOS integration.
+* [LastPass](https://lastpass.com/) — Haven't tested but has an enterprise option.
+* [KeePass](http://keepass.com/) — An open source project.
+
+### Virtual Private Networks (VPN)
+
+If you're on public WiFi or just want extra security, you can tunnel your traffic through an encrypted connection known as a VPN.  There are many, many VPN services as well as the option of running your own. Here are two I've heard people use and like.
+
+* [Tunnel Bear](http://tunnelbear.com/) — Very easy to use, let's you pick different countries, also works on iOS integration and has good bear illustrations.
+* [Mullvad](https://mullvad.net/en/) — A Swedish service that also lets you pay in cash, if you want extra anonymity.
+
 ## More resources
 
 * This [Mozilla compilation](https://github.com/mozilla/DropItLike) points to a whole bunch of other tools and guides if you want to jump in further.
